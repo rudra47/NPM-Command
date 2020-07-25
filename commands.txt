@@ -5,3 +5,9 @@
 5. yarn add webpack webpack-cli --save-dev	= install webpack and webpack-cli with development mode locally
 6. yarn global add webpack	= install webpack globally
 7. npm uninstall webpack -g	= uninstall webpack which is globally
+
+
+Express.js
+8. yarn add express = express is a framework use for server side
+9. yarn global add nodemon = node is a live server
+10. yarn add body-parser = body parser is a middlewar. it parse the json body   	    request
